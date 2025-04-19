@@ -1,13 +1,11 @@
 {
   "settings": {
-    "grok3_api_key": "xai-dbCwVoAEuLJN1ngFNaxDOxIdVoUlRsQGJDu9Prr15pldwadZUtmoGcoWtFq9VbOgzV6hn4ABfKIQIvje",
-    "grok_model" : "grok-3-mini-beta",
-    "serper_api_keys": [
-      "165a72efdb03b35049ba3c511c8fc05c288694d1",
-      "600b3ae0eef4e256eda482d9b502783a10fde176"
-    ],
+    "grok3_api_key": "xai-...",
+    "grok_model": "grok-3-mini-beta",
+    "serper_api_keys": ["165a72efdb03b35049ba3c511c8fc05c288694d1", "600b3ae0eef4e256eda482d9b502783a10fde176"],
     "app_version": "3.0",
-    "download_link": "https://example.com/law-governance-collector/latest",
-    "announcement_message": "Welcome to version 3.0! Check out the new features in the Displayer tab."
+    "app_name": "v3.exe",
+    "download_link": "https://raw.githubusercontent.com/mahagallall/Web_Scraping_Project/refs/heads/main/v3.exe",
+    "announcement_message": "مرحبا بكم في برنامج سحب المواقع المقدم من المستقله , مها."
   }
 }
