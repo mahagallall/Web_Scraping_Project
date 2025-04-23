@@ -2,7 +2,7 @@
   "settings": {
     "grok3_api_key": "xai-...",
     "grok_model": "grok-3-mini-beta",
-    "serper_api_keys": ["165a72efdb03b35049ba3c511c8fc05c288694d1", "600b3ae0eef4e256eda482d9b502783a10fde176"],
+    "serper_api_keys": ["558b997b3f003bcf903712ce8d9537f996e78c98"],
     "app_version": "3.0",
     "app_name": "v3.exe",
     "download_link": "https://raw.githubusercontent.com/mahagallall/Web_Scraping_Project/refs/heads/main/v3.exe",
