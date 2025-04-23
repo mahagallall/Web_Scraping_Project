@@ -2,10 +2,10 @@
   "settings": {
     "grok3_api_key": "xai-...",
     "grok_model": "grok-3-mini-beta",
-    "serper_api_keys": ["558b997b3f003bcf903712ce8d9537f996e78c98"],
+    "serper_api_keys": ["558b997b3f003bcf903712ce8d9537f996e78c98","a1878eed6a5feb969a609a6dfd6af40d0fe90be1","ec0657c419ef19b4637d2286083010249ae50a89"],
     "app_version": "3.0",
     "app_name": "v3.exe",
-    "download_link": "https://raw.githubusercontent.com/mahagallall/Web_Scraping_Project/refs/heads/main/v3.exe",
+    "download_link": "https://cdn.discordapp.com/attachments/1118464008396210217/1364691134592450611/v4.exe?ex=680a9729&is=680945a9&hm=d302028d48bccdcaa2238b72baa9015a3ff7d20d1647207ea16b12455daf7d0f&",
     "announcement_message": "مرحبا بكم في برنامج سحب المواقع المقدم من المستقله , مها."
   }
 }
