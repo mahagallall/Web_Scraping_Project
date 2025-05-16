@@ -4,7 +4,7 @@
     "grok_model": "grok-3-mini-beta",
     "serper_api_keys": [
       "0c43e4421e593a2bbc294ddbe554d0f3aa5e7304",
-      "b6ad9c25893d1da9b1ad2be1da308c4078d3ff89"
+      "e1ad1d9d4b9fb8705cb1f07d1a8636823ac770e8"
     ],
     "app_version": "3.0",
     "app_name": "v3.exe",
